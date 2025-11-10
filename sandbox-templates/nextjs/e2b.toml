@@ -1,0 +1,7 @@
+# E2B Sandbox Template Configuration
+# Using rebuilt template with App Router only fixes
+
+team_id = "63293164-88b7-4e5e-bcf3-a4fd4e7f7691"
+template_id = "sarkfickz793gssodcmg"
+start_cmd = "/compile_page.sh"
+dockerfile = "e2b.Dockerfile"
